@@ -1,3 +1,4 @@
+https://schempy.com/2015/08/25/docker_nginx_nodejs/
 ### Using Nginx and Node.js with Docker ###
 
 This example wil be using Docker to create a Nginx web server and a Nodejs server. Nginx will be configured to use the Nodejs server as a proxy to a specfic url.
